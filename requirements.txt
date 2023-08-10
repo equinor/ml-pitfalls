@@ -1,0 +1,8 @@
+imbalanced-learn
+scikit-learn
+pandas
+seaborn
+matplotlib
+scipy
+redflag
+pooch
