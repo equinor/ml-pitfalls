@@ -27,3 +27,17 @@ If you have not thoroughly and critically reviewed and documented your machine l
 All of these pathologies can lead to unreliable, unsafe, and unethical models.
 
 The reality is that making scientific and engineering recommendations on the basis of machine learning models is new to most of us, in the same way that scientific experimentation was new to most practitioners in the 17th century. While we learn how to get good at it, we need to help each other stay out of these pitfalls.
+
+## Approximate plan
+
+| When | What                                |
+|------|-------------------------------------|
+| 1000 | Welcome and introduction            |
+|      | A series of unfortunate events      |
+|      | Breakpoint                          |
+|      | David Wade: Hard lessons            |
+| 1300 | Apparently lunch                    |
+| 1345 | Case studies                        |
+|      | Breakpoint                          |
+|      | Tooling for _Safety by design_      |
+|      | Hackathon: Building smoke detectors |  
