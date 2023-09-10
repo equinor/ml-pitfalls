@@ -1,5 +1,6 @@
 imbalanced-learn
 scikit-learn
+scikit-lego
 pandas
 seaborn
 matplotlib
