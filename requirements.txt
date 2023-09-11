@@ -1,3 +1,4 @@
+jupyter
 imbalanced-learn
 scikit-learn
 scikit-lego

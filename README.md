@@ -52,15 +52,21 @@ The reality is that making scientific and engineering recommendations on the bas
 |      | Hackathon: Building smoke detectors |  
 
 
-## The examples
+## The notebooks
 
-- Mis-steps in machine learning: we will work through a classification task together.
-- The curse of dimensionality.
+- [A simple classification](notebooks/A_simple_classification.ipynb)
+
+More examples and playgrounds:
+
 - [Balance_classes_with_SMOTE.ipynb](notebooks/Balance_classes_with_SMOTE.ipynb)
+- [Curse_of_dimensionality.ipynb](notebooks/Curse_of_dimensionality.ipynb)
+- [Dealing_with_categorical_features.ipynb](notebooks/Dealing_with_categorical_features.ipynb)
 - [Effect_of_bad_labels.ipynb](notebooks/Effect_of_bad_labels.ipynb)
-- [Encoding_categorical_features.ipynb](notebooks/Encoding_categorical_features.ipynb)
 - [Encoding_time_features.ipynb](notebooks/Encoding_time_features.ipynb)
-- [Scaling_categorical_features.ipynb](notebooks/Scaling_categorical_features.ipynb)
-- [Should_you_scale_the_target_in_regression_tasks.ipynb](notebooks/Should_you_scale_the_target_in_regression_tasks.ipynb)
+- [Scaling_the_target.ipynb](notebooks/Scaling_the_target.ipynb)
 - [Splitting_autocorrelated_data.ipynb](notebooks/Splitting_autocorrelated_data.ipynb)
 - [Splitting_imbalanced_data.ipynb](notebooks/Splitting_imbalanced_data.ipynb)
+
+And one reproduction of a paper:
+
+- [Reproducing_Haklidir_and_Haklidir](notebooks/Reproducing_Haklidir_and_Haklidir.ipynb)
