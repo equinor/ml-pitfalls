@@ -69,4 +69,11 @@ More examples and playgrounds:
 
 And one reproduction of a paper:
 
-- [Reproducing_Haklidir_and_Haklidir](notebooks/Reproducing_Haklidir_and_Haklidir.ipynb)
+- [Reproducing_Haklidir_and_Haklidir](notebooks/Reproducing_Haklidir_and_Haklidir.ipynb) (see video, below).
+
+## Case studies
+
+- **Geothermal temperature prediction** &mdash; https://www.youtube.com/watch?v=-Y0fb23FDzI (Haklidir & Haklidir 2021)
+- **Classifying Chicxulub images** &mdash; https://www.youtube.com/watch?v=v0Yuygp-8RQ (Hall, 2020)
+- **Rock lithology classification** &mdash; https://mcee.ou.edu/aaspi/publications/2019/Pires_de_Lima_et_al_2019-Convolutional_neural_networks_as_an_aid_in_core_lithofacies_classification.pdf (de Lima et al, 2019)
+
