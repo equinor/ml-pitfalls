@@ -77,3 +77,10 @@ And one reproduction of a paper:
 - **Classifying Chicxulub images** &mdash; https://www.youtube.com/watch?v=v0Yuygp-8RQ (Hall, 2020)
 - **Rock lithology classification** &mdash; https://mcee.ou.edu/aaspi/publications/2019/Pires_de_Lima_et_al_2019-Convolutional_neural_networks_as_an_aid_in_core_lithofacies_classification.pdf (de Lima et al, 2019)
 
+## See also
+
+We maintain a few other repos containing learning material related to machine learning and artificial intelligence.
+
+- [`promptly`](https://github.com/equinor/promptly) for more on prompting and pitfalls in generative AI.
+- [`llm-engineering-101`](https://github.com/equinor/llm-engineering-101) for a short workshop aimed at getting developers up to speed.
+- [`ai-upskill-events`](https://github.com/equinor/ai-upskill-events) for a repo describing Equinor's company upskill events and materials.
