@@ -17,6 +17,7 @@ The other notebooks do various experiments, such as:
 
 ## TODO
 
+- Imputing missing data: what difference does it make? (Drop rows vs replace with mean vs regression.)
 - Scaling before splitting: another source of leakage. (Or, for example, doing CV on already-scaled data.)
 - Standardize or normalize?
 - Polynomial expansion before or after standardization? [See this notebook.](https://gist.github.com/kwinkunks/0243eef4bae18b24b9d46ebbdd7fc4f9#file-feature_transformation_order_for_regression-ipynb)
