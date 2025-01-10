@@ -1,10 +1,27 @@
 # Notebooks
 
+The main notebook is [`A_simple_classification.ipynb`](./A_simple_classification.ipynb).
+
+The other notebooks do various experiments, such as:
+
+- Balancing classes with SMOTE: what to watch out for.
+- The curse of dimensionality: high dimensional spaces are weird.
+- Dealing with categorical features: how should you encode them?
+- The effect of bad labels: how many incorrect labels will ruin your model?
+- Encoding time features: one hot, cycles, or something else?
+- Reproducing Haklidir and Haklidir (a poor machine learning paper).
+- Should you scale the target in a regression problem?
+- Splitting autocorrelated data: a major cause of leakage.
+- Splitting imbalanced data: usually a problem for minority classes.
+
+
 ## TODO
 
+- Scaling before splitting: another source of leakage. (Or, for example, doing CV on already-scaled data.)
 - Standardize or normalize?
 - Polynomial expansion before or after standardization? [See this notebook.](https://gist.github.com/kwinkunks/0243eef4bae18b24b9d46ebbdd7fc4f9#file-feature_transformation_order_for_regression-ipynb)
 - Which cost function, and should cost function match the evaluation metric?
+- Scaling dummy-encoded data (a bad idea).
 
 
 ## Licenses
