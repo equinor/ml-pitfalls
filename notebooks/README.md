@@ -18,6 +18,7 @@ The other notebooks do various experiments, such as:
 ## TODO
 
 - Should you _always_ apply regularization in regression problems? E.g. see [this](https://stats.stackexchange.com/questions/443092/in-regression-why-not-use-regularization-by-default) and [this](https://stats.stackexchange.com/questions/403459/should-mle-estimation-always-be-using-penalizers).
+- Related: how can you interpret the coefficients of a regularized model? Or is it not a safe thing to do? (To put it another way, are the OLS coefficients somehow more truthful than Ridge?)
 - Imputing missing data: what difference does it make? (Drop rows vs replace with mean vs regression.)
 - Scaling before splitting: another source of leakage. (Or, for example, doing CV on already-scaled data.)
 - Standardize or normalize?
