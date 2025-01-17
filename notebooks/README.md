@@ -17,6 +17,7 @@ The other notebooks do various experiments, such as:
 
 ## TODO
 
+- Should you _always_ apply regularization in regression problems? E.g. see [this](https://stats.stackexchange.com/questions/443092/in-regression-why-not-use-regularization-by-default) and [this](https://stats.stackexchange.com/questions/403459/should-mle-estimation-always-be-using-penalizers).
 - Imputing missing data: what difference does it make? (Drop rows vs replace with mean vs regression.)
 - Scaling before splitting: another source of leakage. (Or, for example, doing CV on already-scaled data.)
 - Standardize or normalize?
